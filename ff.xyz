@@ -1,5 +1,5 @@
 #!/bin/bash
-echo ""
+""
 clear
 echo ""
 printf "\e[31m[\e[32m★\e[31m]\e[32m You Want to Choose System Option \e[m "
